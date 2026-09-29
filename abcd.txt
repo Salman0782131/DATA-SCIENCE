@@ -1,3 +1,4 @@
-Name Age
+Name Marks
 Salman 21
 Rahman 22
+Prasad 23
